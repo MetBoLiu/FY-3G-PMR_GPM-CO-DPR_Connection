@@ -5,4 +5,4 @@ The FY-3G PMR data are available at: https://satellite.nsmc.org.cn/portalsite/Da
 
 The GPM-CO DPR data are available at: https://doi.org/10.5067/GPM/DPR/GPM/2A/07.
 
-Please email me (202211030001@nuist.edu.cn) if you encounter any difficulties accessing the data, they were much too large to host here on GitHub and the sample data can be found here:
+Please email me (202211030001@nuist.edu.cn) if you encounter any difficulties accessing the data, they were much too large to host here on GitHub and the sample data can be found here: https://zenodo.org/records/11629551.
