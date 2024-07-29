@@ -50,8 +50,6 @@ lonKa_FY3GD = squeeze(lonKa_FY3GD(1,:,:));
     ZmKu_GPM, adjFKu_GPM,...
     ZmKa_GPM, adjFKa_GPM]...
     = GPM_2ADPR_Read(filename_GPM);
-ZmKu_GPM = ZmKu_GPM + permute( repmat(adjFKu_GPM, [1,1,176]), [3,1,2] );
-ZmKa_GPM =  ZmKa_GPM + permute( repmat(adjFKa_GPM, [1,1,176]), [3,1,2] );
 
 %% Figure1
 fig1 = figure(1);
