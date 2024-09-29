@@ -14,6 +14,6 @@ According to the requirements of the China Meteorological Administration, all us
 We now offer you the following two options for accessing FY-3G data:
 
 1.	Send an email to iusc_nsmc@cma.gov.cn for manual review to facilitate data access.
-2.	If you require a substantial amount of data for research purposes, you may submit a brief proposal to either iusc_nsmc@cma.gov.cn or lixue@cma.gov.cn, or forward it to us. Once your application is approved, the requested data will be transmitted to you via FTP.
+2.	If you require a substantial amount of data for research purposes, you may submit a brief proposal to either iusc_nsmc@cma.gov.cn or lixue@cma.gov.cn, or forward it to us (202211030001@nuist.edu.cn). Once your application is approved, the requested data will be transmitted to you via FTP.
 
-If you experience any difficulties in accessing the data, please feel free to reach out to me (202211030001@nuist.edu.cn) or contact the following email addresses: dataserver@cma.gov.cn or iusc_nsmc@cma.gov.cn.
+If you experience any difficulties in accessing the data, please feel free to reach out to us (202211030001@nuist.edu.cn) or contact the following email addresses: dataserver@cma.gov.cn or iusc_nsmc@cma.gov.cn.
