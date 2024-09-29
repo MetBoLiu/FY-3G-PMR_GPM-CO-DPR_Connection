@@ -8,6 +8,7 @@ The GPM-CO DPR data are available at: https://doi.org/10.5067/GPM/DPR/GPM/2A/07.
 The FY-3G PMR sample data can be found here: https://zenodo.org/records/11629551.
 
 ====================
+
 According to the requirements of the China Meteorological Administration, all users seeking to download meteorological data online must undergo real-name verification, which applies to FengYun satellite data as well. Currently, users located outside of China can only complete this process through manual review via email (iusc_nsmc@cma.gov.cn).
 
 We now offer you the following two options for accessing FY-3G data:
