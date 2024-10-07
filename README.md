@@ -11,7 +11,7 @@ The FY-3G PMR sample data can be found here: https://zenodo.org/records/11629551
 
 According to the requirements of the China Meteorological Administration, all users seeking to download meteorological data online must undergo real-name verification, which applies to FengYun satellite data as well. Currently, users located outside of China can only complete this process through manual review via email (iusc_nsmc@cma.gov.cn).
 
-We now offer you the following two options for accessing FY-3G data:
+The following are two options for accessing FY-3G data:
 
 1.	Send an email to iusc_nsmc@cma.gov.cn for manual review to facilitate data access.
 2.	If you require a substantial amount of data for research purposes, you may submit a brief proposal to either iusc_nsmc@cma.gov.cn or lixue@cma.gov.cn, or forward it to us (202211030001@nuist.edu.cn). Once your application is approved, the requested data will be transmitted to you via FTP.
