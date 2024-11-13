@@ -1,4 +1,4 @@
-# Liu_et_al_2024_FY-3G-PMR_GPM-CO-DPR_Calibration
+# Liu_et_al_2024_FY-3G-PMR_GPM-CO-DPR_Connection
 Code and data used to produce Figure 1 in Liu et al. 2024.
 
 The FY-3G PMR data are available at: https://satellite.nsmc.org.cn/DataPortal/en/home/index.html.
