@@ -1,10 +1,10 @@
 # Liu_et_al_2024_FY-3G-PMR_GPM-CO-DPR_Connection
-Code and data used to produce Figure 1 in Liu et al. 2024.
+Code and data used to produce Figure 1 in Liu et al. (2024).
+
+Paper: Liu, B., Li, H., Liu, L., Shang, J., Yin, H., & Kuo, K.-S. (2024). Sea surface and snowflakes as natural targets connecting FY-3G and GPM-CO dual-frequency radars. Geophysical Research Letters, 51, e2024GL110878. https://doi.org/10.1029/2024GL110878
 
 The FY-3G PMR data are available at: https://satellite.nsmc.org.cn/DataPortal/en/home/index.html.
-
 The GPM-CO DPR data are available at: https://doi.org/10.5067/GPM/DPR/GPM/2A/07.
-
 The FY-3G PMR sample data can be found here: https://zenodo.org/records/11629551.
 
 ====================
